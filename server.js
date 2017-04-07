@@ -30,7 +30,7 @@ var colours = require('colors');
 /* ==========================================================
 Internal App Modules/Packages Required
 ============================================================ */
-var routes = require('./server/routes.js');						//Exchange routes & DB Queries 
+var routes = require('./server/routes.js');						//Exchange routes & DB Queries
 
 /* ==========================================================
 Create a new application with Express
